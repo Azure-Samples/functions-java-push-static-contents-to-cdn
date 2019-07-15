@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Sample upload form</title>
+    </head>
+    <body>
+        <h1>Upload something*!</h1>
+        <p><i>*Not something that could get either of us into trouble.</i></p>
+        <form method="POST" enctype="multipart/form-data" action="https://${HOSTNAME}/api/uploadFile">
+            File to upload: <input type="file" name="upfile"><br/>
+            Notes about the file: <input type="text" name="note"><br/>
+            <br/>
+            <input type="submit" value="Press"> to upload the file!
+        </form>
+    </body>
+</html>
+

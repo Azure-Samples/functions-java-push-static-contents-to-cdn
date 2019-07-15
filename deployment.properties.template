@@ -1,0 +1,15 @@
+location=
+
+functionAppResourceGroup=
+functionAppName=
+
+cdnSubscriptionId=
+cdnResourceGroup=
+cdnProfileName=
+cdnEndpointName=
+
+storageSubscriptionId=
+storageResourceGroup=
+storageAccountName=
+storageContainerName=
+
