@@ -4,6 +4,8 @@ platforms: java
 author: yevster
 ---
 
+[![Build Status](https://dev.azure.com/microsoftyev/static-content-uploader/_apis/build/status/static-content-uploader-Maven-CI?branchName=master)](https://dev.azure.com/microsoftyev/static-content-uploader/_build/latest?definitionId=32&branchName=master)
+
 # Overview
 This sample demonstrates how Azure services can be used to upload static content and make it immediately available for fast downloads all over the world.
 
