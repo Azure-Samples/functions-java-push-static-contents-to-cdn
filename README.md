@@ -1,7 +1,9 @@
 ---
-services: storage, functions, CDN
-platforms: java
+page_type: sample
+products: azure-storage, azure-functions, azure-cdn, azure-sdks
+languages: java
 author: yevster
+name: Uploading and CDN-preloading static content with Azure Functions
 ---
 
 [![Build Status](https://dev.azure.com/microsoftyev/static-content-uploader/_apis/build/status/static-content-uploader-Maven-CI?branchName=master)](https://dev.azure.com/microsoftyev/static-content-uploader/_build/latest?definitionId=32&branchName=master)
