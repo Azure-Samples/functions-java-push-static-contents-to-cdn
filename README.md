@@ -1,7 +1,12 @@
 ---
 page_type: sample
-products: azure-storage, azure-functions, azure-cdn, azure-sdks
-languages: java
+languages:
+- java
+products: 
+- azure-storage
+- azure-functions
+- azure-cdn
+- azure-sdks
 author: yevster
 name: Uploading and CDN-preloading static content with Azure Functions
 ---
