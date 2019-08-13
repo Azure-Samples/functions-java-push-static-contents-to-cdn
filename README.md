@@ -7,7 +7,6 @@ products:
 - azure-functions
 - azure-cdn
 - azure-sdks
-author: yevster
 name: Uploading and CDN-preloading static content with Azure Functions
 ---
 
