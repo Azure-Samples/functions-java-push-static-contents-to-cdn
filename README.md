@@ -2,15 +2,11 @@
 page_type: sample
 languages:
 - java
+- powershell
 products:
 - azure
-- azure-storage
-- azure-functions
-- azure-cdn
-- azure-sdks
-name: Uploading and CDN-preloading static content with Azure Functions
-description: "This sample demonstrates how Azure services can be used to upload static content and make it immediately available."
-urlFragment: uploading-and-cdn-preloading-static-content-with-azure-functions
+description: "This sample demonstrates how Azure services can be used to upload static content and make it immediately available for fast downloads all over the world."
+urlFragment: functions-java-push-static-contents-to-cdn
 ---
 
 [![Build Status](https://dev.azure.com/microsoftyev/static-content-uploader/_apis/build/status/static-content-uploader-Maven-CI?branchName=master)](https://dev.azure.com/microsoftyev/static-content-uploader/_build/latest?definitionId=32&branchName=master)
