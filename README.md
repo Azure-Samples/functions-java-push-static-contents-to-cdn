@@ -5,6 +5,9 @@ languages:
 - powershell
 products:
 - azure
+- azure-functions
+- azure-cdn
+- azure-storage
 description: "This sample demonstrates how Azure services can be used to upload static content and make it immediately available for fast downloads all over the world."
 urlFragment: functions-java-push-static-contents-to-cdn
 ---
